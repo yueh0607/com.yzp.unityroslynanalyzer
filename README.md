@@ -1,2 +1,2 @@
 # com.yzp.unityroslynanalyzer
-在Unity编辑器内使用Roslyn API进行代码分析
+在Unity里使用CodeAnalysis分析语法树需要导入蛮多dll，比较麻烦，整合一下
